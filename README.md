@@ -1,3 +1,3 @@
 # Sistema Jogos MVC
 
-Projeto de PHP criado durante o aprendizado da matéria de implementação de PHP com banco de dados
+Projeto final criado durante o 4 bimestre da matéria de Desenvolvimento Web, com implementação de PHP com banco de dados e validação de login com AJAX
